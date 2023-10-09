@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maja Walde</h1>
+<h1 align="center">Maja Walde</h1>
 <h3 align="center">Student, BSc Computer Science</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majawalde&label=Profile%20views&color=0e75b6&style=flat" alt="majawalde" /> </p>
 
