@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [portfolio](https://github.com/majawalde/portfolio)
-- 🌱 I’m currently learning **Concurrent Programming, Software Security and Algorithms**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **maja.walde@gmail.com**
 
